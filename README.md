@@ -1,6 +1,6 @@
 # Restaurant Management System
 
-Live Code : https://codx-restaurant.netlify.app/
+Live Code :https://restaurant-management-system-smoky.vercel.app/
 
 
 
